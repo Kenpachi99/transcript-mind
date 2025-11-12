@@ -1,0 +1,1 @@
+# TranscriptMind Backend Application
